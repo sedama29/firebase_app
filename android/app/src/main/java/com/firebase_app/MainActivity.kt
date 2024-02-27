@@ -1,4 +1,4 @@
-package com.firebase_app
+package npx expo install @react-native-firebase/app.
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
